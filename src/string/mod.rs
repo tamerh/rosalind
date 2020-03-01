@@ -1,0 +1,13 @@
+pub mod cons;
+pub mod dna;
+pub mod gc;
+pub mod kmp;
+pub mod lcsm;
+pub mod lexf;
+pub mod pmch;
+pub mod revc;
+pub mod rna;
+pub mod splc;
+pub mod sseq;
+pub mod subs;
+pub mod prot;
